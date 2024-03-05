@@ -1,0 +1,14 @@
+{ 
+  "en":
+    {
+      "welcomeMessage": "Welcome to Calculator!",
+      "firstNumberPrompt":  "What's the first number?",
+      "secondNumberPrompt": "What's the second number?",
+      "operationPrompt": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+      "invalidNumberPrompt":"Hmm... that doesn't look like a valid number.",
+      "invalidOperationPrompt":"Must choose 1, 2, 3 or 4",
+      "resultMessage":"The result is: ",
+      "repeatCalculationPrompt":"Would you like to perform another calculation? If so, respond ",
+      "repeatCalculationExpected": "yes"
+    }
+}
